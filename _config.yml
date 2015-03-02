@@ -12,18 +12,18 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: airy musings
 
-description: Stylish Jekyll Theme
+description: airily musing about
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Eric Gonzalo
+  email: ersgonzalo@gmail.com
+  github: ersgonzalo
+  twitter: ersgonzo
+  facebook: gonzalo.eric
+  linkedin: gonzaloe
+  bio: a student to life and learning.
+  # email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
 categories_path: categories.html
