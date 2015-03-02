@@ -43,6 +43,16 @@ a.nav-link:hover { color: #777 }
 	margin-bottom: 10px;
 }
 
+#resize {
+	max-width: 150px;
+	max-height: 150px;
+}
+
+#resize2 {
+	max-width: 80px;
+	max-height: 80px;
+}
+
 #contact-list li .fa,
 article .share .btn {
 	-o-transition:color .2s ease-out, background 1s ease-in;
