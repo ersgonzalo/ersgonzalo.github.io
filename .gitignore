@@ -3,3 +3,4 @@ _site/*
 serve/*
 server/*
 *Thumbs.db
+.DS_Store
