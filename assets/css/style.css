@@ -4,6 +4,10 @@ body{
 	color: #2c3e50;
 }
 
+.navbar-header {
+	background-color: #B71C1C;
+}
+
 .sidebar {
 	position: fixed;
 	top: 0px;

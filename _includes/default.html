@@ -70,7 +70,7 @@
 			</a>
 			{% endif %}
 			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
-				<img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=35" class="img-circle" />
+				<img src="https://pbs.twimg.com/profile_images/478025462208155649/gYIq2LbK_400x400.png" class="img-circle" style="max-height: 35px; max-width: 35px;"/>
 				{{ site.title }}
 			</a>
 		</div>
@@ -79,6 +79,7 @@
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
 				<li class="active"><a href="{{ site.BASE_PATH }}/">Home</a></li>
+				<li><a href="{{ site.BASE_PATH}}/about">About</a></li>
 				<li><a href="{{ site.BASE_PATH}}/{{ site.categories_path }}">Categories</a></li>
 				<li><a href="{{ site.BASE_PATH}}/{{ site.tags_path }}">Tags</a></li>
 			</ul>
@@ -92,6 +93,7 @@
 		</button>
 		<ul class="dropdown-menu" role="menu">
 			<li><a href="{{ site.BASE_PATH}}/"><i class="fa fa-home"></i>Home</a></li>
+			<li><a href="{{ site.BASE_PATH}}/about"><i class="fa fa-briefcase"></i>About</a></li>
 			<li><a href="{{ site.BASE_PATH}}/{{ site.categories_path }}"><i class="fa fa-folder"></i>Categories</a></li>
 			<li><a href="{{ site.BASE_PATH}}/{{ site.tags_path }}"><i class="fa fa-tags"></i>Tags</a></li>
 			<li class="divider"></li>
