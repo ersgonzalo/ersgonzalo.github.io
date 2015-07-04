@@ -40,23 +40,6 @@ a.nav-link i{
 }
 a.nav-link:hover { color: #777 }
 
-#bio {
-	font-family: "Courier New", Courier, monospace;
-	font-size: 11px;
-	margin: 0 auto;
-	margin-bottom: 10px;
-}
-
-#resize {
-	max-width: 150px;
-	max-height: 150px;
-}
-
-#resize2 {
-	max-width: 80px;
-	max-height: 80px;
-}
-
 #contact-list li .fa,
 article .share .btn {
 	-o-transition:color .2s ease-out, background 1s ease-in;
@@ -96,7 +79,7 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #e74c3c;
+	color: #000000;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
@@ -197,3 +180,32 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
+/* Custom Classes and Ids for me*/
+hr{
+	background-color: black;
+}
+
+.page-header{
+	border-bottom: 2px solid #000;
+}
+
+.outlineBlack {
+	border: 5px solid black;
+}
+
+#bio {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 11px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+#resize {
+	max-width: 150px;
+	max-height: 150px;
+}
+
+#resize2 {
+	max-width: 80px;
+	max-height: 80px;
+}
