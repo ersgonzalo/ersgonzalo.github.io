@@ -2,6 +2,12 @@
 
 body{
 	color: #2c3e50;
+	font-size: 15px;
+}
+
+img{
+	max-width: 100%;
+	max-width: 100%;
 }
 
 .navbar-header {
@@ -182,6 +188,14 @@ ul.dropdown-menu>li>a>i.fa {
 }
 
 /* Custom Classes and Ids for me*/
+.profile-about{
+	margin: 5px;
+	float: left;
+	max-height: 17%;
+	max-width: 17%;
+	border: 2px solid black;
+}
+
 .page-header{
 	border-bottom: 1px solid #000;
 }
