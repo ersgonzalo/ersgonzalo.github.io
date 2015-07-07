@@ -197,6 +197,8 @@ ul.dropdown-menu>li>a>i.fa {
 
 .image-center{
 	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .make-border{
