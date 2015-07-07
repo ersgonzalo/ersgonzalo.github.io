@@ -2,7 +2,7 @@
 
 body{
 	color: #2c3e50;
-	font-size: 15px;
+	font-size: 18px;
 }
 
 img{
@@ -194,6 +194,14 @@ ul.dropdown-menu>li>a>i.fa {
 	max-height: 17%;
 	max-width: 17%;
 	border: 2px solid black;
+}
+
+.make-border{
+	border: 1px solid black;
+}
+
+.make-shadow{
+	box-shadow: 2px 2px 2px gray;
 }
 
 .page-header{
