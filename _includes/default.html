@@ -55,22 +55,23 @@
 				<span class="icon-bar"></span>
 			</button>
 			{% if site.author.github %}
-			<a type="button" class="navbar-toggle nav-link" href="http://github.com/{{ site.author.github }}">
+			<a class="btn navbar-toggle nav-link" href="http://github.com/{{ site.author.github }}">
 				<i class="fa fa-github"></i>
 			</a>
 			{% endif %}
 			{% if site.author.twitter %}
-			<a type="button" class="navbar-toggle nav-link" href="http://twitter.com/{{ site.author.twitter }}">
+			<a class="btn navbar-toggle nav-link" href="http://twitter.com/{{ site.author.twitter }}">
 				<i class="fa fa-twitter"></i>
 			</a>
 			{% endif %}
 			{% if site.author.email %}
-			<a type="button" class="navbar-toggle nav-link" href="mailto:{{ site.author.email }}">
+			<a class="btn navbar-toggle nav-link" href="mailto:{{ site.author.email }}">
 				<i class="fa fa-envelope"></i>
 			</a>
 			{% endif %}
 			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
-				<img src="https://pbs.twimg.com/profile_images/478025462208155649/gYIq2LbK_400x400.png" class="img-circle" style="max-height: 35px; max-width: 35px;"/>
+				<img src="https://i1.sndcdn.com/avatars-000150041383-k39uc9-t200x200.jpg" class="img-circle outline-thin-black" style="max-height: 35px; max-width: 35px;" alt="Glasses for me"/>
+				<!-- <img src="https://pbs.twimg.com/profile_images/478025462208155649/gYIq2LbK_400x400.png" class="img-circle" style="max-height: 35px; max-width: 35px;" alt="Old Twitter profile picture"/> -->
 				{{ site.title }}
 			</a>
 		</div>

@@ -26,7 +26,7 @@ p{
 	margin-bottom: 10px;
 }
 .sidebar-header .title{
-	letter-spacing: 3px;
+	letter-spacing: 1px;
 	text-transform: uppercase;
 }
 
@@ -213,10 +213,22 @@ ul.dropdown-menu>li>a>i.fa {
 	border-bottom: 1px solid #000;
 }
 
-.outlineBlack {
+.outline-black {
 	border: 4px solid black;
 	height: auto;
 	max-width: 100%;
+}
+.outline-thin-black{
+	border: 2px solid black;
+	height: auto;
+	max-width: 100%;
+}
+.break-margin{
+	margin-bottom: 0;
+	margin-top: 0;
+}
+.color-black{
+	border-color: #000;
 }
 
 #bio {

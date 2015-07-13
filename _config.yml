@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: airy musings
+      title: airy_musings
 
 description: airily musing about
 author:
@@ -22,11 +22,12 @@ author:
   twitter: ersgonzo
   facebook: gonzalo.eric
   linkedin: gonzaloe
-  bio: a student to life and learning.
-  # email_md5: 726351295ec82e145928582f595aa3aa
+  bio: a student to life and learning. take in all the information!
+  bio2: a tactician, techie, & thinker unbounded by curiosity.
+  email_md5: ba618b76cfa143a4c703a86bf82112fd
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH:
+BASE_PATH: 
