@@ -194,8 +194,8 @@ ul.dropdown-menu>li>a>i.fa {
 .profile-about{
 	margin: 5px;
 	float: left;
-	max-height: 17%;
-	max-width: 17%;
+	max-height: 150px;
+	max-width: 150px;
 	border: 2px solid black;
 }
 .image-center{
@@ -236,9 +236,12 @@ ul.dropdown-menu>li>a>i.fa {
 .touch-date{
 	margin-bottom: 0;
 }
+.read-more-link{
+	color: #e74c3c !important;
+}
 #bio {
 	font-family: "Courier New", Courier, monospace;
-	font-size: 11px;
+	font-size: 100%;
 	margin: 0 auto;
 	margin-bottom: 10px;
 }
