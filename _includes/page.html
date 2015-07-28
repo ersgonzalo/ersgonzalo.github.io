@@ -1,4 +1,17 @@
 <div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+  <h1>
+  <!-- if main page, use main heading image -->
+  {% if page.title  == 'airy_musings' %} <img class="title-resize" src="/images/headers/am heading 2.png" alt="Airy Musings Heading"/> {% endif %}
+  <!-- else use about heading -->
+  {% if page.title  == 'about me and the a.m.' %} <img class="title-resize" src="/images/headers/about-me.png" alt="about me header"/> {% endif %}
+  <!-- else use projects heading -->
+  {% if page.title  == 'Projects Over Time' %} <img class="title-resize" src="/images/headers/projects-made.png" alt="projects header"/> {% endif %}
+  <!-- else use catergories heading -->
+  {% if page.title  == 'Categories' %} <img class="title-resize" src="/images/headers/categories.png" alt="categories header"/> {% endif %}
+  <!-- else use tags heading -->
+  {% if page.title  == 'Tags' %} <img class="title-resize" src="/images/headers/tags.png" alt="tags header"/> {% endif %}
+  <!-- Originally used to show the title text, instead switched to images as header -->
+  <!-- {% if page.title != 'airy_musings' %} {{ page.title }} {% endif %} -->
+  {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
 </div>
 {{ content }}

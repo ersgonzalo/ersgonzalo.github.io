@@ -231,6 +231,11 @@ ul.dropdown-menu>li>a>i.fa {
 	border-color: #000;
 }
 
+.title-resize{
+	max-height: 150px;
+	max-width: 90%;
+}
+
 #bio {
 	font-family: "Courier New", Courier, monospace;
 	font-size: 11px;
