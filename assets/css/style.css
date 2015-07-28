@@ -8,6 +8,9 @@ body{
 p{
 	margin: 0 0 20px;
 }
+figcaption{
+	font-size: 75%;
+}
 
 .navbar-header {
 	background-color: #B71C1C;
@@ -186,7 +189,7 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
-/* Custom Classes and Ids for me*/
+/*       Custom Classes and Ids for me       */
 
 .profile-about{
 	margin: 5px;
@@ -239,13 +242,8 @@ ul.dropdown-menu>li>a>i.fa {
 	margin: 0 auto;
 	margin-bottom: 10px;
 }
-
-#resize {
-	max-width: 150px;
-	max-height: 150px;
-}
-
-#resize2 {
-	max-width: 80px;
+#resize{
+	/*Used for profile picture*/
 	max-height: 80px;
+	max-width: 80px;
 }
