@@ -5,7 +5,7 @@
 <article>
 
 	<div class="col-sm-11">
-	 <span class="post-date">
+	 <span class="post-info">
 	   {% assign d = page.date | date: "%d" | plus:'0' %}
 	   {{ page.date | date: "%B" }} 
 	   {% case d %}
@@ -15,7 +15,14 @@
 	     {% else %}{{ d }}th,
 	   {% endcase %}
 	   {{ page.date | date: "%Y" }}
-	 </span>
+	  • <!-- Post Date(Above) | Reading Time(Below)-->
+ 	   {% assign words = content | number_of_words %}
+ 	   {% if words < 360 %}
+ 	     1 min read
+ 	   {% else %}
+ 	     {{ words | divided_by:180 }} mins read
+ 	   {% endif %}
+ 	 </span>
 	  <div class="article_body">
 	  {{ content }}
 	  </div>

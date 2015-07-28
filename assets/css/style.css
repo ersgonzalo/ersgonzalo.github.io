@@ -97,10 +97,10 @@ article{
 	margin-bottom: 20px;
 }
 
-.post-date {
+.post-info {
 	text-transform: uppercase;
 	font-size: 14px;
-	letter-spacing: 3px;
+	letter-spacing: 2px;
 }
 
 article {
@@ -187,6 +187,7 @@ ul.dropdown-menu>li>a>i.fa {
 }
 
 /* Custom Classes and Ids for me*/
+
 .profile-about{
 	margin: 5px;
 	float: left;
@@ -194,25 +195,20 @@ ul.dropdown-menu>li>a>i.fa {
 	max-width: 17%;
 	border: 2px solid black;
 }
-
 .image-center{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
-
 .make-border{
 	border: 1px solid black;
 }
-
 .make-shadow{
 	box-shadow: 2px 2px 2px gray;
 }
-
 .page-header{
 	border-bottom: 1px solid #000;
 }
-
 .outline-black {
 	border: 4px solid black;
 	height: auto;
@@ -230,12 +226,13 @@ ul.dropdown-menu>li>a>i.fa {
 .color-black{
 	border-color: #000;
 }
-
 .title-resize{
 	max-height: 150px;
 	max-width: 90%;
 }
-
+.touch-date{
+	margin-bottom: 0;
+}
 #bio {
 	font-family: "Courier New", Courier, monospace;
 	font-size: 11px;
