@@ -12,8 +12,8 @@ Built with dbyll
 Open source stylish, minimalistic theme for jekyll.  
 Demo: http://dbtek.github.io/dbyll/  
 
-Site heading images built with [Polona](http://typo.polona.pl/en/). 
-Additional Jekyll inspiration from [PixelCog](http://pixelcog.com/)
+Site heading images built with [Polona](http://typo.polona.pl/en/).  
+Additional Jekyll inspiration from [PixelCog](http://pixelcog.com/)  
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
