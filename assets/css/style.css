@@ -4,7 +4,10 @@ body{
 	color: #2c3e50;
 	font-size: 18px;
 }
-
+.videoWrapper{
+	max-width: 90%;
+	max-height: 100%;
+}
 p{
 	margin: 0 0 20px;
 }
@@ -18,7 +21,7 @@ figcaption{
 
 .sidebar {
 	position: fixed;
-	top: 0px;
+	top: 0;
 	padding-top: 10%;
 	background-color: #B71C1C;
 	color: #fff;
@@ -182,7 +185,7 @@ footer {
 }
 #nav-menu .dropdown-menu {
     left: inherit;
-    right: 0px;
+    right: 0;
 }
 
 ul.dropdown-menu>li>a>i.fa {
@@ -236,6 +239,7 @@ ul.dropdown-menu>li>a>i.fa {
 .touch-date{
 	margin-bottom: 0;
 }
+.project-color,
 .read-more-link{
 	color: #e74c3c !important;
 }
