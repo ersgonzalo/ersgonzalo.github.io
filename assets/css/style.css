@@ -254,3 +254,8 @@ ul.dropdown-menu>li>a>i.fa {
 	max-height: 80px;
 	max-width: 80px;
 }
+.haikus{
+	font-size:23px;
+	color:#da4453;
+	font-weight:400;
+}
