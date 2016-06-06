@@ -1,28 +1,19 @@
-# Moon Jekyll Theme
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+aireadme
+=====
 
-**[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+Welcome to my readme page! Nothing here yet aside from the very base of my blog. I might add more content in this space but for now it will be my placeholder for future commentary!
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Originally hosted on AWS and Wordpress, I migrated to jekyll and Github Pages. Due to the free one year trial ending, I decided to stick with Github pages due to being freely available.
 
-## Preview
+All thoughts expressed are my own and are random musings I have!
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+(New Layout Set up with Moon)[https://github.com/TaylanTatli/Moon]
+=====
+Moon is a minimal, one column jekyll theme.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+(Originally Built with dbyll)[https://github.com/ersgonzalo/ersgonzalo.github.io/tree/Old_AM]
+=====
+Open source stylish, minimalistic theme for jekyll.  
+Demo: http://dbtek.github.io/dbyll/  
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+Additional Jekyll inspiration from [PixelCog](http://pixelcog.com/)  
