@@ -1,8 +1,7 @@
 ---
 layout: post
 title: macbook revival 
-categories: [technology]
-tags: [programming, web development]
+tags: [programming, web development, technology]
 description: 
 ---
 
@@ -27,6 +26,6 @@ Excited that the Macbook came back to life after replacing the battery I quickly
 
 In total, restoring this Macbook cost about $220, compared to purchasing a used Macbook off of eBay which goes for about $440 on average. Installing a similar-to-the-old-hard-rive-capacity SSD, upgrading the ram to 8gb, replacing the trackpad and the bottom cover were all ways to bring it back to working condition. After growing up repairing and tinkering with various devices, being able to bring a premium piece of technology back to life is such a fulfilling feeling. Working off of it now is a joy compared to my Lenovo U410 that has failed me in more than one occasion.
 
-While trying to customize the computer to my own desires, I also found out that OS X 10.10 Yosemite was also free. Thanks Apple! Don't call me a fanboy, but someone thankful for allowing a 4 year old piece of hardware to stay current and safe. Trying to remove the old remenants from CUNY was quite a task but Google and the terminal all helped make my life easier. Cleaning the old useless applications and shrinking files brought me to about 50gb of usage, which is quite nice for my uses. For now, I can live with the cracked screen that it has. But please, as advice, make use of all the power that you have at your hands, push your devices to do what they were designed to do instead of leaving them as paper weights. <a href="https://www.youtube.com/watch?v=rYCODMuoHNI">Pursue risks but don't be reckless!</a>
+While trying to customize the computer to my own desires, I also found out that OS X 10.10 Yosemite was also free. Thanks Apple! Don't call me a fanboy, but someone thankful for allowing a 4 year old piece of hardware to stay current and safe. Trying to remove the old remenants from CUNY was quite a task but Google and the terminal all helped make my life easier. Cleaning the old useless applications and shrinking files brought me to about 50gb of usage, which is quite nice for my uses. For now, I can live with the cracked screen that it has. But please, as advice, make use of all the power that you have at your hands, push your devices to do what they were designed to do instead of leaving them as paper weights. <a href="https://www.youtube.com/watch?v=rYCODMuoHNI" target="_blank">Pursue risks but don't be reckless!</a>
 
 *Special thanks to Jeremy for allowing me to use his Macbook and restore it back to life for my own personal use!*

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Rekindling the Fiery HDX
-categories: [technology]
-tags: [playgrounds]
+tags: [playgrounds, technology]
 description: 
 ---
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 以前のお勉強
-categories: [muses]
-tags: [日本語]
+tags: [日本語, muses]
 description: 
 ---
 

@@ -1,34 +1,75 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# Site
+title:              airy musings
+bio:                'a student to life and learning. take in all the information!'
+description:        "airily musing about"
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/logo.png'
+background:         'assets/img/placeholder-big.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+#url:                http://taylantatli.me/Moon
+url:                http://localhost:4000
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
-highlighter: pygments
-markdown: kramdown
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
 
+# Comments
+#disqus_shortname:   taylantatli
 
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: airy_musings
+# Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+email:              ErSGonzalo@Gmail.com
+twitter:            ersgonzo
+#facebook:           username
+github:             ersgonzalo
+stackoverflow:     2100851/eric-gonzalo   #from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          gonzaloe
+#xing:              username
+#instagram:          username
+lastfm:            lightrapid
+#tumblr:            username
+#pinterest:         username
+#foursquare:        username
+#steam:              username
+#dribbble:          username
+#youtube:           username
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
 
-description: airily musing about
-author:
-  name: Eric Gonzalo
-  short_name: Eric G.
-  email: ersgonzalo@gmail.com
-  github: ersgonzalo
-  twitter: ersgonzo
-  facebook: gonzalo.eric
-  linkedin: gonzaloe
-  bio: a student to life and learning. take in all the information!
-  bio2: a tactician, techie, & thinker unbounded by curiosity.
-  email_md5: ba618b76cfa143a4c703a86bf82112fd
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
 
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
+jekyll-mentions:
+    base_url: https://github.com
 
-BASE_PATH: 
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

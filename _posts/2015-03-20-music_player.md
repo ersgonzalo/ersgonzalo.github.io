@@ -1,8 +1,7 @@
 ---
 layout: post
 title: building 1/2 of a music player
-categories: [technology]
-tags: [日本語, web development]
+tags: [日本語, web development, technology]
 description: 
 ---
 

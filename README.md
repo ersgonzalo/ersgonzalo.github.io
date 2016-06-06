@@ -1,19 +1,28 @@
-aireadme
-=====
+# Moon Jekyll Theme
+    
+######(If you like this theme or using it, please give a :star: for motivation.)
 
-Welcome to my readme page! Nothing here yet aside from the very base of my blog. I might add more content in this space but for now it will be my placeholder for future commentary!
+**[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
-Originally hosted on AWS and Wordpress, I migrated to jekyll and Github Pages. Due to the free one year trial ending, I decided to stick with Github pages due to being freely available.
+## Features
+* Minimal, you can focus on your content
+* Responsive
+* Disqus integration
+* Syntax highlighting
+* Optional post image
+* Social icons
+* Page for sharing projects
+* Optional background image
+* Simple navigation menu
+* MathJax support
 
-All thoughts expressed are my own and are random musings I have!
+## Preview
 
-Built with dbyll
-=====
-Open source stylish, minimalistic theme for jekyll.  
-Demo: http://dbtek.github.io/dbyll/  
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
 
-Site heading images built with [Polona](http://typo.polona.pl/en/).  
-Additional Jekyll inspiration from [PixelCog](http://pixelcog.com/)  
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+## Getting Started
 
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.

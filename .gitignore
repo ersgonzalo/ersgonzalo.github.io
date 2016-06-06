@@ -1,5 +1,7 @@
-_config.yml
-_site/*
+#_config.yml
+_site/
+.sass-cache/
+.jekyll-metadata
 serve/*
 server/*
 *Thumbs.db
