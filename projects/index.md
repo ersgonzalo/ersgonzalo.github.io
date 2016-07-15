@@ -23,59 +23,59 @@ tags: [projects]
   <div class="row" style="text-align: left;">
     <div class="col-md-12">
       <h4 class="project-color"><a href="/">Airy Musings</a></h4>
-      <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> wherever and whenever. <br>
-      <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> This website! <br>
-      <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> 2011 - Present<br>
-      <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> HTML, CSS, Javascript, Wordpress, AWS EC2, Jekyll
+      <i class="fa fa-map-marker" aria-hidden="true"></i> | wherever and whenever. <br>
+      <i class="fa fa-pencil" aria-hidden="true"></i> | This website! <br>
+      <i class="fa fa-calendar" aria-hidden="true"></i> | 2011 - Present<br>
+      <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Javascript, Wordpress, AWS EC2, Jekyll
     </div>
     <div class="col-md-12">
       <h4 class="project-color"><a href="https://xenecraft.wordpress.com/">Xenecraft</a></h4> 
-      <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> Home <br>
-      <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> A quick site to help inform our Minecraft server's users. Displays all the relevant information pretaining to joining our server and other useful information. <br>
-      <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> 2014 - Present<br>
-      <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> HTML, CSS, Wordpress, Node.js, Jekyll
+      <i class="fa fa-map-marker" aria-hidden="true"></i> | Home <br>
+      <i class="fa fa-pencil" aria-hidden="true"></i> | A quick site to help inform our Minecraft server's users. Displays all the relevant information pretaining to joining our server and other useful information. Also used Node.js to create scripts to automate generating files and to back up our server.<br>
+      <i class="fa fa-calendar" aria-hidden="true"></i> | 2014 - Present<br>
+      <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Wordpress, Node.js, Jekyll
     </div>
     <div class="col-md-12">
       <h4 class="project-color"><a href="http://www.gep.io/">Gep.io</a></h4> 
-      <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> Fullstack Academy of Code <br>
-      <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Final Project <br>
-      <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> March 2015 - April 2015<br>
-      <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> HTML, CSS, Bootstrap, Javascript, jQuery, MongoDB, Express, Angular.js, Node.js, Eventbrite API, Foursquare API
+      <i class="fa fa-map-marker" aria-hidden="true"></i> | Fullstack Academy of Code <br>
+      <i class="fa fa-pencil" aria-hidden="true"></i> | Final Project <br>
+      <i class="fa fa-calendar" aria-hidden="true"></i> | March 2015 - April 2015<br>
+      <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Bootstrap, Javascript, jQuery, MongoDB, Express, Angular.js, Node.js, Eventbrite API, Foursquare API
     </div>
     <div class="col-md-12">
       <h4 class="project-color"><a href="https://github.com/ersgonzalo/ongaku-player">Ongaku Player/音楽プレーヤー</a></h4> 
-      <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> Fullstack Academy of Code <br>
-      <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Done within a week during the Personal Hackathon. Used the Web Audio API and Angular to play music files from local computer. Used Google Material Design as inspiration for the music player. <br>
-      <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> March 2015<br>
-      <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> HTML, CSS, Angular.js, jQuery
+      <i class="fa fa-map-marker" aria-hidden="true"></i> | Fullstack Academy of Code <br>
+      <i class="fa fa-pencil" aria-hidden="true"></i> | Done within a week during the Personal Hackathon. Used the Web Audio API and Angular to play music files from local computer. Used Google Material Design as inspiration for the music player. <br>
+      <i class="fa fa-calendar" aria-hidden="true"></i> | March 2015<br>
+      <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Angular.js, jQuery
     </div>
     <div class="col-md-12">
       <h4 class="project-color"><a href="https://github.com/Rmoore424/stack_store">Stackations unLtd.</a></h4> 
-      <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> Fullstack Academy of Code <br>
-      <i class="glyphicon glyphicon-pencil"></i> First major group project. <br>
-      <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> March 2015<br>
-      <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> HTML, CSS, Bootstrap, Javascript, jQuery, MongoDB, Express, Angular.js, Node.js
+      <i class="fa fa-map-marker" aria-hidden="true"></i> | Fullstack Academy of Code <br>
+      <i class="glyphicon glyphicon-pencil"></i> | First major group project that required building an e-commerce website that sold fictional vacations. <br>
+      <i class="fa fa-calendar" aria-hidden="true"></i> | March 2015<br>
+      <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Bootstrap, Javascript, jQuery, MongoDB, Express, Angular.js, Node.js
     </div>
     <div class="col-md-12">
       <h4 class="project-color"><a href="https://github.com/ersgonzalo/dotvba">Various Excel Applications</a></h4> 
-      <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> New York Department of Transportation <br>
-      <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Mini-projects using Visual Basic to make daily tasks much easier. <br>
-      <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> 2014<br>
-      <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Microsoft Excel, Microsoft Access, Visual Basic, SQL
+      <i class="fa fa-map-marker" aria-hidden="true"></i> | New York Department of Transportation <br>
+      <i class="fa fa-pencil" aria-hidden="true"></i> | Mini-projects using Visual Basic to make daily repetitive tasks much easier. <br>
+      <i class="fa fa-calendar" aria-hidden="true"></i> | January 2014 - January 2015<br>
+      <i class="fa fa-file-code-o" aria-hidden="true"></i> | Microsoft Excel, Microsoft Access, Visual Basic, SQL
     </div>
     <div class="col-md-12">
       <h4 class="project-color"><a href="http://www.ascendbaruch.org/">Ascend Baruch</a></h4> 
-      <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> Baruch College <br>
-      <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Built upon Wix as the third iteration to save money for our organization. Each successive website is passed down to the next. <br>
-      <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> 2013<br>
-      <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> HTML, CSS, Wordpress, In-browser Wix Editor
+      <i class="fa fa-map-marker" aria-hidden="true"></i> | Baruch College <br>
+      <i class="fa fa-pencil" aria-hidden="true"></i> | Built upon Wix as the third iteration to save money and make it easier to manage for our organization. Each successive website is passed down to the next Ascend VP of Technology at Baruch. <br>
+      <i class="fa fa-calendar" aria-hidden="true"></i> | February 2012 - July 2013<br>
+      <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Wordpress, In-browser Wix Editor
     </div>
     <div class="col-md-12">
       <h4 class="project-color">Marketers of Baruch</h4> 
-      <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> CUNY Baruch College <br> 
-      <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> The first website created during my CIS 3630 [Principles of Web Design] class in Baruch. Originally wanted to redo website for organization because the first website looked less appealing and uninformative. Made from scratch using Dreamweaver and Photoshop.<br>
-      <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>December 2012<br>
-      <span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> HTML, CSS, Adobe Dreamweaver
+      <i class="fa fa-map-marker" aria-hidden="true"></i> | CUNY Baruch College <br> 
+      <i class="fa fa-pencil" aria-hidden="true"></i> | The first website created during my CIS 3630 [Principles of Web Design] class in Baruch. Originally wanted to redo website for organization because the first website looked less appealing and uninformative. Made from scratch using Dreamweaver and Photoshop.<br>
+      <i class="fa fa-calendar" aria-hidden="true"></i> | December 2012<br>
+      <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Adobe Dreamweaver
     </div>
   </div>
   <!--Divide Skills section-->
