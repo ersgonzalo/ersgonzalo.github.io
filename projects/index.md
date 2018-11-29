@@ -8,7 +8,7 @@ tags: [projects]
   <div class="r-heading row">
     <div class="col-md-6 col-sm-6">
       <h2>Eric Gonzalo</h2>
-      <h5>QA Engineer @ <a href="indiepayroll.com">Indiepayroll</a></h5>
+      <h5>QA Engineer++ @ <a href="gslate.com">GreenSlate</a></h5>
     </div>
     <div class="col-md-6 col-sm-6">
       <ul class="list-unstyled">
