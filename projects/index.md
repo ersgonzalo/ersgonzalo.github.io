@@ -4,7 +4,7 @@ title: Projects Over Time
 tags: [projects]
 ---
 <article>
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css">
   <div class="r-heading row">
     <div class="col-md-6 col-sm-6">
       <h2>Eric Gonzalo</h2>
@@ -12,9 +12,9 @@ tags: [projects]
     </div>
     <div class="col-md-6 col-sm-6">
       <ul class="list-unstyled">
-        <li><strong>Github</strong>: <a href="https://github.com/ersgonzalo/" target="_blank">Github.com/ersgonzalo</a></li>
-        <li><strong>E-mail</strong>: <a href="mailto:ersgonzalo@gmail.com">ErSGonzalo@Gmail.com</a></li>
-        <li><a href="{{ site.BASE_PATH }}/egonzaloResume.pdf" class="btn btn-xs" target="_blank">Download Resume (PDF)</a></li>
+        <li><strong>Github</strong>: <a href="https://github.com/{{site.github}}" target="_blank">Github.com/{{site.github}}</a></li>
+        <li><strong>E-mail</strong>: <a href="mailto:{{site.email}}">{{site.email}}</a></li>
+        <li><a href="{{ site.BASE_PATH }}/{{ site.resume }}" class="btn btn-xs" target="_blank">Download Resume (PDF)</a></li>
       </ul>
     </div>
   </div>
@@ -29,7 +29,7 @@ tags: [projects]
       <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Javascript, Wordpress, AWS EC2, Jekyll
     </div>
     <div class="col-md-12">
-      <h4 class="project-color"><a href="https://xenecraft.wordpress.com/">Xenecraft</a></h4> 
+      <h4 class="project-color"><a href="https://xenecraft.com/">Xenecraft</a></h4> 
       <i class="fa fa-map-marker" aria-hidden="true"></i> | Home <br>
       <i class="fa fa-pencil" aria-hidden="true"></i> | A quick site to help inform our Minecraft server's users. Displays all the relevant information pretaining to joining our server and other useful information. Also used Node.js to create scripts to automate generating files and to back up our server.<br>
       <i class="fa fa-calendar" aria-hidden="true"></i> | 2014 - Present<br>
