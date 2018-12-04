@@ -6,14 +6,16 @@ tags: [projects]
 <article>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css">
   <div class="r-heading row">
+
     <div class="col-md-6 col-sm-6">
       <h2>Eric Gonzalo</h2>
       <h5>QA Engineer++ @ <a target="_blank" href="https://gslate.com">GreenSlate</a></h5>
     </div>
+
     <div class="col-md-6 col-sm-6">
       <ul class="list-unstyled">
-        <li><strong>Github</strong>: <a href="https://github.com/{{site.github}}" target="_blank">Github.com/{{site.github}}</a></li>
-        <li><strong>E-mail</strong>: <a href="mailto:{{site.email}}">{{site.email}}</a></li>
+        <li><strong>Github</strong>: <a href="https://github.com/{{ site.github }}" target="_blank">Github.com/{{ site.github }}</a></li>
+        <li><strong>E-mail</strong>: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         <li><a href="{{ site.BASE_PATH }}/{{ site.resume }}" class="btn btn-xs" target="_blank">Download Resume (PDF)</a></li>
       </ul>
     </div>
@@ -21,6 +23,7 @@ tags: [projects]
   <br>
   <!--Divide Projects section-->
   <div class="row" style="text-align: left;">
+    
     <div class="col-md-12">
       <h4 class="project-color"><a href="/">Airy Musings</a></h4>
       <i class="fa fa-map-marker" aria-hidden="true"></i> | wherever and whenever. <br>
@@ -28,6 +31,7 @@ tags: [projects]
       <i class="fa fa-calendar" aria-hidden="true"></i> | 2011 - Present<br>
       <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Javascript, Wordpress, AWS EC2, Jekyll
     </div>
+
     <div class="col-md-12">
       <h4 class="project-color"><a href="https://xenecraft.com/">Xenecraft</a></h4> 
       <i class="fa fa-map-marker" aria-hidden="true"></i> | Home <br>
@@ -35,6 +39,7 @@ tags: [projects]
       <i class="fa fa-calendar" aria-hidden="true"></i> | 2014 - Present<br>
       <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Wordpress, Node.js, Jekyll
     </div>
+
     <div class="col-md-12">
       <h4 class="project-color"><a href="http://www.gep.io/">Gep.io</a></h4> 
       <i class="fa fa-map-marker" aria-hidden="true"></i> | Fullstack Academy of Code <br>
@@ -42,6 +47,7 @@ tags: [projects]
       <i class="fa fa-calendar" aria-hidden="true"></i> | March 2015 - April 2015<br>
       <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Bootstrap, Javascript, jQuery, MongoDB, Express, Angular.js, Node.js, Eventbrite API, Foursquare API
     </div>
+
     <div class="col-md-12">
       <h4 class="project-color"><a href="https://github.com/ersgonzalo/ongaku-player">Ongaku Player/音楽プレーヤー</a></h4> 
       <i class="fa fa-map-marker" aria-hidden="true"></i> | Fullstack Academy of Code <br>
@@ -56,6 +62,7 @@ tags: [projects]
       <i class="fa fa-calendar" aria-hidden="true"></i> | March 2015<br>
       <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Bootstrap, Javascript, jQuery, MongoDB, Express, Angular.js, Node.js
     </div>
+
     <div class="col-md-12">
       <h4 class="project-color"><a href="https://github.com/ersgonzalo/dotvba">Various Excel Applications</a></h4> 
       <i class="fa fa-map-marker" aria-hidden="true"></i> | New York Department of Transportation <br>
@@ -63,6 +70,7 @@ tags: [projects]
       <i class="fa fa-calendar" aria-hidden="true"></i> | January 2014 - January 2015<br>
       <i class="fa fa-file-code-o" aria-hidden="true"></i> | Microsoft Excel, Microsoft Access, Visual Basic, SQL
     </div>
+
     <div class="col-md-12">
       <h4 class="project-color"><a href="http://www.ascendbaruch.org/">Ascend Baruch</a></h4> 
       <i class="fa fa-map-marker" aria-hidden="true"></i> | Baruch College <br>
@@ -70,6 +78,7 @@ tags: [projects]
       <i class="fa fa-calendar" aria-hidden="true"></i> | February 2012 - July 2013<br>
       <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Wordpress, In-browser Wix Editor
     </div>
+
     <div class="col-md-12">
       <h4 class="project-color">Marketers of Baruch</h4> 
       <i class="fa fa-map-marker" aria-hidden="true"></i> | CUNY Baruch College <br> 
@@ -78,6 +87,7 @@ tags: [projects]
       <i class="fa fa-file-code-o" aria-hidden="true"></i> | HTML, CSS, Adobe Dreamweaver
     </div>
   </div>
+
   <!--Divide Skills section-->
   <div class="row col-md-12 col-sm-12">
     <h3 class="break-margin">Technical Skills</h3>
