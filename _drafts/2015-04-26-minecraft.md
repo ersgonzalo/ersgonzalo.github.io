@@ -1,8 +1,7 @@
 ---
 layout: post
 title: making a minecraft server
-categories: [games]
-tags: [Minecraft]
+tags: [Minecraft, games]
 description: 
 ---
 

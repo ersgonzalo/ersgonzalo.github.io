@@ -1,8 +1,7 @@
 ---
 layout: post
 title: a fuller stack
-categories: [technology]
-tags: [programming, web development]
+tags: [programming, web development, technology]
 description: 
 ---
 

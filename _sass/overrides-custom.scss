@@ -65,3 +65,23 @@
 	color:#da4453;
 	font-weight:400;
 }
+.smaller-links{
+	font-size: 11px;
+}
+
+/* Overwrite some Areas of the Default Theme */
+
+.feature{
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.container{
+	max-width: 600px !important;
+}
+
+hr {
+	&.hr-line {
+		margin: 0.5em 0 !important;
+	}
+}
