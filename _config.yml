@@ -27,14 +27,13 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-
-# Comments
-#disqus_shortname:   taylantatli
+collections:
+  figures:
+    output: true
 
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
   #analytics:
   #verify:
   #ad-client:
@@ -42,25 +41,17 @@ sass:
 #bing-verify:
 email:              ErSGonzalo@Gmail.com
 twitter:            ersgonzo
-#facebook:           username
 github:             ersgonzalo
 stackoverflow:     2100851/eric-gonzalo   #from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          gonzaloe
-#xing:              username
 #instagram:          username
 lastfm:            lightrapid
-#tumblr:            username
 #pinterest:         username
 #foursquare:        username
 #steam:              username
-#dribbble:          username
-#youtube:           username
 #soundcloud:        username
-#weibo:             username
 #flickr:            username
 #codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
 #hackernews:        username
 
 # Gems
