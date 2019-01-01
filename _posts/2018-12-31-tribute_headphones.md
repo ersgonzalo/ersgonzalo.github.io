@@ -8,8 +8,6 @@ feature: /images/tribute/headphone_top.jpg
 
 Oh man has it been awhile since I've last published a blog post. This one is going to be writing in praise of my AKG K271 headphones. And also one that exposes some of my thought process before any large item  purchase.
 
-<!-- <img src="/images/tribute/headphone_top.jpg" /> -->
-
 For this pair of headphones, I purchased them way back on February 24, 2014. From an Amazon retail price of $140, I remember excitedly being able to bring the price all the way down to $54.35 by using a crazy combination of discounts and my credit card points. If you were to look <a href="https://amzn.to/2Rsl2tT" target="_blank">on Amazon</a> as of the writing of this post, it seems like the price has increased to about $178.99. By now I can say that these headphones have gone through their own version of High School or a "Bachelors Degree." This is technically the third pair of "good headphones" I've gotten, since starting with the Superlux 668B and then the White ATH-M50s. Both have since been retired to the top of my headphone mounts but the K271s are still going strongly during everyday use!
 
 <img src="/images/tribute/headphone_replaceable.jpg" />

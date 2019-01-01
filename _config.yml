@@ -33,12 +33,11 @@ collections:
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #analytics:
+google:
+  analytics:        UA-60323610-1
   #verify:
   #ad-client:
   #ad-slot:
-#bing-verify:
 email:              ErSGonzalo@Gmail.com
 twitter:            ersgonzo
 github:             ersgonzalo
@@ -46,12 +45,9 @@ stackoverflow:     2100851/eric-gonzalo   #from a "http://stackoverflow.com/user
 linkedin:          gonzaloe
 #instagram:          username
 lastfm:            lightrapid
-#pinterest:         username
 #foursquare:        username
 #steam:              username
 #soundcloud:        username
-#flickr:            username
-#codepen:           username
 #hackernews:        username
 
 # Gems
