@@ -21,7 +21,7 @@ tags: [about]
 		<li><a href="http://reddit.com/">Reddit</a></li>
 	</ul>
 	<hr class="break-margin color-black">
-	<h4 class="break-margin">So why choose the name airy musings?</h4>
+	<h4 class="break-margin">Why choose the name airy musings?</h4>
 	<hr class="break-margin color-black">
 	<div>
 		It's wordplay that allows me to throw my thoughts out! You could interpret it in three ways:
