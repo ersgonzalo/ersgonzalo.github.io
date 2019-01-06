@@ -10,6 +10,12 @@ layout: compress
     {% include head.html %}
 </head>
 <body>
+    {% if site.google.analytics %}
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NN4CSQP"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    {% endif %}
     {% include nav.html %}
     <!-- Header -->
     <header class="header flex" role="banner">
