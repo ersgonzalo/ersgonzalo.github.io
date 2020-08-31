@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DIYe-ing my Chair
+title: DIYe-ing my Chair - Part 1
 tags: [technology]
 description: Triggering myself a little less when I compare my chair color to the room.
 ---
