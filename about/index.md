@@ -6,10 +6,9 @@ tags: [about]
     
 <article>
 <div class="col-sm-10">
-	<img class="profile-about" src="https://media-exp1.licdn.com/dms/image/C5603AQGONVY34-5vLw/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=-h6kcJoFTv7S3RmX7vbXA6ctuNvo8G0Zy1C4J2D8ec0"/><p>I'm Eric Gonzalo! An alumni of Bronx Science, CUNY Baruch College, and Fullstack Academy of Code. Bits scatterbrained curiousity at times, witness to amazing events ongoing in the world, from advances in technology (who doesn't want an Occulus Rift?), stylish wear, musical practice, routine swimming, and memes!</p>
+	<img class="profile-about" src="/images/about/me-header.jpg"/><p>I'm Eric Gonzalo! An alumni of Bronx Science, CUNY Baruch College, and Fullstack Academy of Code. Bits scatterbrained curiousity at times, witness to amazing events ongoing in the world, from advances in technology (*like gaming in VR*), stylish wear, musical practice, routine swimming, and memes!</p>
 	<p>Looking to find my place in the ever-expanding world as I grow with each day. A little less focus on myself and more on all the crazy ideas that happen around me every day! Musing about little ideas and try to shape them into better bloggity content here on the am! Working on making this whole site my own via the platforms it's hosted on.</p>
-	<p>Dabbled a bit in various programming languages that I continue to practice. Built my own computer and proud of what it's capable of, but it needs to be pushed harder (not via Cryptocurrency mining)! Currently the sysadmin of the Gonzalo household, learning about any technology by experimenting and implementing it for my family. Huge fan of wordplay, silly rhymes, and music.</p>
-	<p>You can follow me on Twitter <a href="https://twitter.com/ersgonzo">@ersgonzo</a> and say hi!</p>
+	<p>Dabbled a bit in various programming languages that I continue to practice. Built my own computer and proud of what it's capable of, though still desire to hit higher performance! Currently the sre-sysadmin of the household, learning technology with expertimentation and implementation. Huge fan of wordplay, silly rhymes, and music.</p>
 	<hr class="break-margin color-black">
 	<h4 class="break-margin">Favoritely Curious Sites</h4>
 	<hr class="break-margin color-black">

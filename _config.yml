@@ -7,7 +7,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/desktop-setup.jpg'
-resume:             'egonzaloResume.pdf'
+resume:             'esGonzaloResume.pdf'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 #url:                http://127.0.0.1:4000
@@ -39,7 +39,7 @@ google:
   #ad-client:
   #ad-slot:
 email:              ErSGonzalo@Gmail.com
-twitter:            ersgonzo
+# twitter:            ersgonzo
 github:             ersgonzalo
 stackoverflow:     2100851/eric-gonzalo   #from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          gonzaloe
