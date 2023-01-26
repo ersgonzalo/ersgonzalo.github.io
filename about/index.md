@@ -6,19 +6,9 @@ tags: [about]
     
 <article>
 <div class="col-sm-10">
-	<img class="profile-about" src="/images/about/me-header.jpg"/><p>I'm Eric Gonzalo! An alumni of Bronx Science, CUNY Baruch College, and Fullstack Academy of Code. Bits scatterbrained curiousity at times, witness to amazing events ongoing in the world, from advances in technology (*like gaming in VR*), stylish wear, musical practice, routine swimming, and memes!</p>
-	<p>Looking to find my place in the ever-expanding world as I grow with each day. A little less focus on myself and more on all the crazy ideas that happen around me every day! Musing about little ideas and try to shape them into better bloggity content here on the am! Working on making this whole site my own via the platforms it's hosted on.</p>
-	<p>Dabbled a bit in various programming languages that I continue to practice. Built my own computer and proud of what it's capable of, though still desire to hit higher performance! Currently the sre-sysadmin of the household, learning technology with expertimentation and implementation. Huge fan of wordplay, silly rhymes, and music.</p>
-	<hr class="break-margin color-black">
-	<h4 class="break-margin">Favoritely Curious Sites</h4>
-	<hr class="break-margin color-black">
-	<ul>
-		<li><a href="http://arstechnica.com/">ArsTechnica</a></li>
-		<li><a href="https://news.ycombinator.com/">YCombinator's Hacker News</a></li>
-		<li><a href="http://techcrunch.com/">TechCrunch</a></li>
-		<li><a href="http://jacquesmattheij.com/">Jacques Mattheij's Blog</a></li>
-		<li><a href="http://reddit.com/">Reddit</a></li>
-	</ul>
+	<img class="profile-about" src="/images/about/me-header.jpg"/><p>I'm Eric Gonzalo! An alumni of Bronx Science, CUNY Baruch College, and Fullstack Academy of Code. Bits of curiousity at times; witness to amazing ongoing world events and changes, from advances in technology (*like gaming in VR*), stylish wear, musical practice, routine physical activity, and memes!</p>
+	<p>Looking to find my place in the ever-expanding world as I grow each day. Less focused on myself and more on all the crazy ideas that happen around me every day! Musing about little ideas and try to shape them into better bloggity content here on the am.</p>
+	<p>Dabbled varying languages that I continue to practice. Built my own computer and proud of what it's capable of, though still desiring to hit higher performance capabilities! Currently the household sre-sysadmin, learning with experimentation and implementation. Huge fan of wordplay, silly rhymes, and music.</p>
 	<hr class="break-margin color-black">
 	<h4 class="break-margin">Why choose the name airy musings?</h4>
 	<hr class="break-margin color-black">
@@ -29,7 +19,7 @@ tags: [about]
 			<li>A Musing</li>
 			<li>Amusing</li>
 		</ol>
-		<p>Kind of exciting to come up with a name like this because other domain names I had in mind were taken and I kept pondering for something witty. Lots of simple domain names were already taken and I didn't want to make a name that seemed too overbearingly annoying. A blog like this is fine with such a name and it would serve its purpose! <em>Airy</em> in the sense that the topics are a light touch upon the deep, interesting realm of things that I have played around with. <em>Musings</em> as thoughts that come out from my mind. And with even more detail:</p>
+		<p>It's exciting to come up with this witty name because other domain names I had in mind were taken. Lots of simple domain names were already taken and I didn't want to make a name that seemed too overbearingly annoying. A blog like this is fine with such a name and it would serve its purpose! <em>Airy</em> in the sense that the topics are a light touch upon the deep, interesting realm of things that I have played around with. <em>Musings</em> as thoughts that come out from my mind. And with even more detail:</p>
 		From <a href="http://www.merriam-webster.com/dictionary/muse" target="_blank">Merriam-Webster</a>:
 		<blockquote>Muse  <span class="ssens"><strong>:</strong>  <em>to become absorbed in thought; especially <strong>:</strong>  to turn something over in the mind meditatively and often inconclusively </em></span></blockquote>
 		But also according to <a href="https://en.wikipedia.org/wiki/Muse" target="_blank">Wikipedia</a>:
